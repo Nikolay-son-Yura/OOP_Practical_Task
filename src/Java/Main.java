@@ -22,9 +22,3 @@ public class Main {
         System.out.println(product);
     }
 }
-//* Product milk=new Milk("Parmalat",136,10,"пакет",14,3.8,14);
-//        Product bread=new Bread("Пшеничный",54,10,"булочка",1,"1 сорт");
-//        Product[] all=new Product[] {milk,bread};
-//
-//        for (Product item:all){
-//            System.out.println(item);
